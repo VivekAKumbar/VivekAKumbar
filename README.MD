@@ -25,16 +25,32 @@ I document everything. If I learned it, it's in a commit.
 
 ## 🛡️ Current Focus
 
-🟡 Phase 01 — Networking Fundamentals
-⬜ Phase 02 — Windows Essentials
-⬜ Phase 03 — Linux Command Line
-⬜ Phase 04 — Scripting & Automation
-⬜ Phase 05 — Security Fundamentals
-⬜ Phase 06 — Blue Team Tools
-⬜ Phase 07 — Certifications
-⬜ Phase 08 — Hands-On Practice
-⬜ Phase 09 — Build Your Portfolio
-⬜ Phase 10 — Get Hired
+<table>
+<tr>
+<td>🟪 Phase 01 — Networking Fundamentals</td>
+<td>🟪 Phase 02 — Windows Essentials</td>
+<td>🟪 Phase 03 — Linux Command Line</td>
+</tr>
+
+<tr>
+<td>🟪 Phase 04 — Scripting & Automation</td>
+<td>🟪 Phase 05 — Security Fundamentals</td>
+<td>🟪 Phase 06 — Blue Team Tools</td>
+</tr>
+
+<tr>
+<td>🟪 Phase 07 — Certifications</td>
+<td>🟪 Phase 08 — Hands-On Practice</td>
+<td>🟪 Phase 09 — Build Your Portfolio</td>
+</tr>
+
+<tr>
+<td>🟪 Phase 10 — Get Hired</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
 
 📍 **Full roadmap with daily progress →** [blue-team-roadmap](https://github.com/VivekAKumbar/blue-team-roadmap)
 
