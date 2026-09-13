@@ -52,7 +52,7 @@ I document everything. If I learned it, it's in a commit.
 </table>
 
 
-📍 **Full roadmap with daily progress →** [blue-team-roadmap](https://github.com/VivekAKumbar/blue-team-roadmap)
+📍 **Full roadmap with daily progress →** [Blue-Team-Roadmap](https://github.com/VivekAKumbar/blue-team-roadmap)
 
 ---
 
