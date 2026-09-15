@@ -7,21 +7,9 @@
 
 <br/>
 
-[
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-VivekAKumbar-red?style=flat-square&logo=tryhackme&logoColor=white)
-
-](https://tryhackme.com/p/VivekAKumbar)
-[
-
-![Blue Team Roadmap](https://img.shields.io/badge/📍_Blue_Team_Roadmap-In_Progress-yellow?style=flat-square)
-
-](https://github.com/VivekAKumbar/blue-team-roadmap)
-[
-
-![CyderSec](https://img.shields.io/badge/🛡️_CyderSec-Self--Built_Curriculum-cyan?style=flat-square)
-
-](https://github.com/VivekAKumbar/cydersec)
+<a href="https://tryhackme.com/p/VivekAKumbar"><img src="https://img.shields.io/badge/TryHackMe-VivekAKumbar-red?style=flat-square&logo=tryhackme&logoColor=white"/></a>
+<a href="https://github.com/VivekAKumbar/blue-team-roadmap"><img src="https://img.shields.io/badge/Blue_Team_Roadmap-In_Progress-yellow?style=flat-square"/></a>
+<a href="https://github.com/VivekAKumbar/cydersec"><img src="https://img.shields.io/badge/CyderSec-Self--Built_Curriculum-cyan?style=flat-square"/></a>
 
 </div>
 
@@ -37,16 +25,18 @@ I document everything. If I learned it, it's in a commit.
 
 ## 🛡️ Current Focus
 
-🟡 Phase 01 — Networking Fundamentals
-⬜ Phase 02 — Windows Essentials
-⬜ Phase 03 — Linux Command Line
-⬜ Phase 04 — Scripting & Automation
-⬜ Phase 05 — Security Fundamentals
-⬜ Phase 06 — Blue Team Tools
-⬜ Phase 07 — Certifications
-⬜ Phase 08 — Hands-On Practice
-⬜ Phase 09 — Build Your Portfolio
-⬜ Phase 10 — Get Hired
+| Status | Phase |
+|--------|-------|
+| 🟡 | Phase 01 — Networking Fundamentals |
+| ⬜ | Phase 02 — Windows Essentials |
+| ⬜ | Phase 03 — Linux Command Line |
+| ⬜ | Phase 04 — Scripting & Automation |
+| ⬜ | Phase 05 — Security Fundamentals |
+| ⬜ | Phase 06 — Blue Team Tools |
+| ⬜ | Phase 07 — Certifications |
+| ⬜ | Phase 08 — Hands-On Practice |
+| ⬜ | Phase 09 — Build Your Portfolio |
+| ⬜ | Phase 10 — Get Hired |
 
 📍 **Full roadmap with daily progress →** [blue-team-roadmap](https://github.com/VivekAKumbar/blue-team-roadmap)
 
@@ -56,63 +46,15 @@ I document everything. If I learned it, it's in a commit.
 
 **Security**
 
-
-
-![Splunk](https://img.shields.io/badge/Splunk-Learning-black?style=flat-square&logo=splunk&logoColor=white)
-
- 
-
-![Wireshark](https://img.shields.io/badge/Wireshark-Learning-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
- 
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Lab-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
- 
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-Reference-red?style=flat-square)
-
- 
-
-![Wazuh](https://img.shields.io/badge/Wazuh-Learning-005571?style=flat-square)
-
- 
-
-![Sysmon](https://img.shields.io/badge/Sysmon-Learning-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-
+<img src="https://img.shields.io/badge/Splunk-Learning-black?style=flat-square&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-Learning-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Kali_Linux-Lab-557C94?style=flat-square&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Reference-red?style=flat-square"/> <img src="https://img.shields.io/badge/Wazuh-Learning-005571?style=flat-square"/> <img src="https://img.shields.io/badge/Sysmon-Learning-0078D4?style=flat-square&logo=windows&logoColor=white"/>
 
 **OS & Scripting**
 
-
-
-![Linux](https://img.shields.io/badge/Linux-Daily_Driver-FCC624?style=flat-square&logo=linux&logoColor=black)
-
- 
-
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
-
- 
-
-![Bash](https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
- 
-
-![PowerShell](https://img.shields.io/badge/PowerShell-Investigation-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-
+<img src="https://img.shields.io/badge/Linux-Daily_Driver-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-Investigation-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 
 **Lab**
 
-
-
-![VMware](https://img.shields.io/badge/VMware-Home_Lab-607078?style=flat-square&logo=vmware&logoColor=white)
-
- 
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-AD_Lab-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-
+<img src="https://img.shields.io/badge/VMware-Home_Lab-607078?style=flat-square&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_Server-AD_Lab-0078D4?style=flat-square&logo=windows&logoColor=white"/>
 
 ---
 
@@ -133,23 +75,11 @@ I document everything. If I learned it, it's in a commit.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=VivekAKumbar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekAKumbar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff"/>
 
-![VivekAKumbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekAKumbar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff)
-
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekAKumbar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=ffffff)
-
-
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VivekAKumbar&theme=dark&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc)
-
-
+<img src="https://streak-stats.demolab.com?user=VivekAKumbar&theme=dark&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/>
 
 </div>
 
