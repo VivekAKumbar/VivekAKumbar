@@ -54,7 +54,7 @@ I document everything. If I learned it, it's in a commit.
 
 **Lab**
 
-<img src="https://img.shields.io/badge/VMware-Home_Lab-607078?style=flat-square&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_Server-AD_Lab-0078D4?style=flat-square&logo=windows&logoColor=white"/> <a href="https://github.com/VivekAKumbar/Blue-Team-Roadmap/tree/main/phase-01-networking/Cisco%20Packet%20Tracer"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-Learning-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VMware-Home_Lab-607078?style=flat-square&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_Server-AD_Lab-0078D4?style=flat-square&logo=windows&logoColor=white"/> <a href="https://github.com/VivekAKumbar/Blue-Team-Roadmap/tree/main/phase-01-networking"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-Learning-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></a>
 
 ---
 
